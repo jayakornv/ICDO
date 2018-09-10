@@ -1,6 +1,6 @@
 # Inverse Composition Discriminative Optimization (ICDO)
 
-This repository contains the point cloud registration code from the DO paper which was published in CVPR2017.
+This repository contains the point cloud registration code from the ICDO paper which was published in CVPR2018.
 
 ## To run the demo
 1. clone this repository
