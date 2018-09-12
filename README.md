@@ -13,7 +13,7 @@ This repository contains the point cloud registration code from the ICDO paper w
 ## Citation
 If you use this code in your work, please cite
 
-J. Vongkulbhisal, F. De la Torre, J. Costeira. Inverse Composition Discriminative Optimization for Point Cloud Registration. CVPR, 2018.
+J. Vongkulbhisal, B. Irastorza Ugalde, F. De la Torre, J. Costeira. Inverse Composition Discriminative Optimization for Point Cloud Registration. CVPR, 2018.
 
 ## Note
 This code is free for research and academic use. 
